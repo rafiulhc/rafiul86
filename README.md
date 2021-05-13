@@ -1,4 +1,4 @@
-<img src="https://media-exp1.licdn.com/dms/image/C4E03AQEdox01eJ77Zg/profile-displayphoto-shrink_800_800/0/1603486125307?e=1625702400&v=beta&t=Z32WdPV24WgxEf1Kx0XPiQ5n75A_bLA_lKhl1riWrtQ"/>
+
 
 
 ### Find in me in the web 🌍
