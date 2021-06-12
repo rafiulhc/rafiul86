@@ -11,7 +11,7 @@
 <br />
 <br />
 
-Hi there, I'm **Rafiul Hasan Chowdhury**, a **Fullstack Blockchain Developer**. I’m Rafiul, A Full Stack Blockchain Developer who loves building products on Ethereum blockchain. I’d love to combine my passion and lifelong journey in the field of technology. I'm committed to progressively providing solutions through Dapp, Defi, NFT, and smart contracts to the client as a tech professional. Courageous enough to transform my career from the financial industry to the blockchain industry
+Hi there, I'm **Rafiul Hasan Chowdhury**, a **Fullstack Blockchain Developer**. A Full Stack Blockchain Developer who loves building products on Ethereum blockchain. I’d love to combine my passion and lifelong journey in the field of technology. I'm committed to progressively providing solutions through Dapp, Defi, NFT, and smart contracts to the client as a tech professional. Courageous enough to transform my career from the financial industry to the blockchain industry
 
   <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
