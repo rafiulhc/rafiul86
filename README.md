@@ -3,7 +3,7 @@
 
 ### Find in me in the web 🌍
 
-<a href="https://www.linkedin.com/in/chowdhury-rafiul-hasan-0191291ba/">
+<a href="https://www.linkedin.com/in/hrafiul">
   <img align="left" alt="Rafiul's LinkdeIn" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 
@@ -11,7 +11,7 @@
 <br />
 <br />
 
-Hi there, I'm **Rafiul Hasan Chowdhury**, a **MERN Stack Web Developer** ( JavaScript & Node.js ). Actively looking for internship opportunity as a Full-Stack or MERN Developer to grow and develop my skills further.
+Hi there, I'm **Rafiul Hasan Chowdhury**, a **Fullstack Blockchain Developer**. I’m Rafiul, A Full Stack Blockchain Developer who loves building products on Ethereum blockchain. I’d love to combine my passion and lifelong journey in the field of technology. I'm committed to progressively providing solutions through Dapp, Defi, NFT, and smart contracts to the client as a tech professional. Courageous enough to transform my career from the financial industry to the blockchain industry
 
   <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
@@ -22,7 +22,7 @@ Hi there, I'm **Rafiul Hasan Chowdhury**, a **MERN Stack Web Developer** ( JavaS
 - 🤔 My interests are with Understanding new Technologies and use them for Impactfull and Secure Projects;
 - 💼 I’m Master of Science with Banking Diploma.
 - 📫 Please email via [rhasan346@gmail.com](rhasan346@gmail.com).
-- 📝 See my [Resume](https://drive.google.com/uc?export=download&id=1bJ8pYHy1iwMQjdyCQViH6A8gA7vkTW7s) to get more info.
+- 📝 See my [Resume](https://drive.google.com/file/d/1LsIdaa9QxV4xzOAkSk0eHnJmRavTsApW/view?usp=sharing) to get more info.
 
 
 
