@@ -22,7 +22,7 @@ Hi there, I'm **Rafiul Hasan Chowdhury**, a **Fullstack | Blockchain Developer**
 - 🤔 My interests are with Understanding new Technologies and use them for Impactfull and Secure Projects;
 - 💼 I’m Master of Science with Banking Diploma.
 - 📫 Please email via [rhasan346@gmail.com](rhasan346@gmail.com).
-- 📝 See my [Resume](https://drive.google.com/file/d/1LsIdaa9QxV4xzOAkSk0eHnJmRavTsApW/view?usp=sharing) to get more info.
+- 📝 See my [Resume](https://drive.google.com/file/d/1woGszz2hFteEgM5BkiPsrCJAm6rLCIR5/view?usp=sharing) to get more info.
 
 
 
